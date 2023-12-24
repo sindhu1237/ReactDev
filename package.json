@@ -1,0 +1,32 @@
+{
+  "name": "reactbasics",
+  "version": "1.0.0",
+  "description": "This is React Basics",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindhu1237/ReactDev.git"
+  },
+  "keywords": [],
+  "author": "Sindhu Rudraboina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindhu1237/ReactDev/issues"
+  },
+  "homepage": "https://github.com/sindhu1237/ReactDev#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
